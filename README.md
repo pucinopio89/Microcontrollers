@@ -1,4 +1,4 @@
-# Microcontrollers
+# Microcontrollers - inca lucrez la el
 Conținut proiect:
 Mi-am ales 2 senzori: de temperatură(analogic) și
 umididate(digital)
